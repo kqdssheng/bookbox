@@ -33,6 +33,8 @@
 | 正则表达式30分钟                 | 编程    | PDF     |                     |
 | 汇编语言（第4版）                 | 编程    | PDF     |                     |
 | DOS批处理指南                  | 编程    | PDF     | Dos/Cmd批处理脚本        |
+| Shell编程                   | 编程    | PDF     | Shell脚本             |
+| 快乐的Linux命令行               | 编程    | PDF     | Shell脚本             |
 |                           |       |         |                     |
 | 猴子都能学会的Git                | 工具    | ZIP     |                     |
 | Vim用户手册中文版7.2             | 工具    | PDF     |                     |
