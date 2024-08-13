@@ -21,6 +21,7 @@
 | 黑客秘笈：渗透测试实用指南(第2版)               | 渗透    | PDF     |                     |
 | 渗透测试实战第三版(红队版)                   | 渗透    | PDF     |                     |
 | Kali Linux Web 渗透测试秘籍            | 渗透    | ZIP     |                     |
+| 域渗透攻防指南                          | 渗透    | PDF     |                     |
 | The Shellcoder's Handbook        | 渗透    | PDF     | 中文且带目录              |
 | 1.1 Linux Privilege Escalation   | 渗透    | PDF     | 英文                  |
 | 1.2 Windows Privilege Escalation | 渗透    | PDF     | 英文                  |
